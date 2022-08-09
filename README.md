@@ -11,7 +11,7 @@
 *  [**SkullRec**](https://github.com/Project-MONAI/research-contributions/tree/main/SkullRec)
 *  [**autoimplant**](https://github.com/Jianningli/autoimplant)
 
-⚡Quick Updates: ...
+⚡Quick Updates
 
 
 

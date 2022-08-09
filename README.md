@@ -1,9 +1,9 @@
 :star: Featured Repositories
 
-* Item [**Sparse Convolutional Neural Networks for Medical Image Analysis**](https://github.com/Jianningli/SparseCNN)
-* Item [SkullRec](https://github.com/Project-MONAI/research-contributions/tree/main/SkullRec)
+*  [**Sparse Convolutional Neural Networks for Medical Image Analysis**](https://github.com/Jianningli/SparseCNN)
+*  [SkullRec](https://github.com/Project-MONAI/research-contributions/tree/main/SkullRec)
 
-- ⚡ Updates: ...
+⚡Quick Updates: ...
 
 
 

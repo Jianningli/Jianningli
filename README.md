@@ -1,22 +1,12 @@
+:email: jianningli.me@gmail.com
+
 :star: Featured Repositories
 
 *  [**Sparse Convolutional Neural Networks for Medical Image Analysis**](https://github.com/Jianningli/SparseCNN)
-*  [SkullRec](https://github.com/Project-MONAI/research-contributions/tree/main/SkullRec)
+*  [**SkullRec**](https://github.com/Project-MONAI/research-contributions/tree/main/SkullRec)
+*  [**autoimplant**](https://github.com/Jianningli/autoimplant)
 
 ⚡Quick Updates: ...
 
 
 
-<!--
-**Jianningli/Jianningli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->

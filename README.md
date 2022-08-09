@@ -1,7 +1,11 @@
-### Hi there 👋 
-:star: 
+:star: Featured Repositories
 
-Sparse Convolutional Neural Networks for Medical Image Analysis https://github.com/Jianningli/SparseCNN
+* Item [**Sparse Convolutional Neural Networks for Medical Image Analysis**](https://github.com/Jianningli/SparseCNN)
+* Item [SkullRec](https://github.com/Project-MONAI/research-contributions/tree/main/SkullRec)
+
+- ⚡ Updates: ...
+
+
 
 <!--
 **Jianningli/Jianningli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

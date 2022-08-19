@@ -1,7 +1,7 @@
 
 ![alt text](https://github.com/Jianningli/Jianningli/blob/main/thumbnail.png)
 
-:email: jianningli.me@gmail.com
+:email: jianningli[dot]me[at]gmail[dot]com
 
 :anchor: machine learning, computer vision, medical image analysis
 

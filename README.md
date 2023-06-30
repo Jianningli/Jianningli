@@ -1,4 +1,4 @@
-:email: jianningli[dot]me[at]gmail[dot]com
+:email: jianningli.me@gmail.com
 
 :anchor: machine learning, computer vision, medical image analysis
 

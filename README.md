@@ -3,6 +3,7 @@
 :anchor: machine learning, computer vision, medical image analysis
 
 :star: Featured Repositories
+* [**MedShapeNet Feedback**](https://github.com/Jianningli/medshapenet-feedback)
 * [**Morton 3D Encoding and Decoding: An interactive interface**](https://jianningli-morton3d-home-5luow2.streamlit.app)
 *  [**Sparse Convolutional Neural Networks for Medical Image Analysis**](https://github.com/Jianningli/SparseCNN)
 *  [**SkullRec**](https://github.com/Project-MONAI/research-contributions/tree/main/SkullRec)

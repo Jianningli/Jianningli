@@ -4,9 +4,6 @@
 </a>
 </div>
 
-
-:anchor: machine learning, computer vision, medical image analysis
-
 :star: Featured Repositories
 * [**Sparse convolutional neural network for high-resolution skull shape completion and shape super-resolution**](https://github.com/Jianningli/SparseCNN)
 * [**SkullRec**](https://github.com/Project-MONAI/research-contributions/tree/main/SkullRec)

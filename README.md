@@ -1,16 +1,11 @@
 :email: jianningli.me@gmail.com
 
-<picture>
-<source 
-  srcset="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=Jianningli&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=Jianningli&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=transparent"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=Jianningli&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=transparent" />
-</picture>
+<div align="left"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jianningli&show_icons=true&line_height=28&hide_border=false&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="GitHub stats" />
+</a>
+</div>
+
 
 :anchor: machine learning, computer vision, medical image analysis
 

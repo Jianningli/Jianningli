@@ -1,5 +1,17 @@
 :email: jianningli.me@gmail.com
 
+<picture>
+<source 
+  srcset="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=Jianningli&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=Jianningli&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=transparent"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=Jianningli&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=transparent" />
+</picture>
+
 :anchor: machine learning, computer vision, medical image analysis
 
 :star: Featured Repositories

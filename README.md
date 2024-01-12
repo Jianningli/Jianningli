@@ -1,4 +1,4 @@
-
+[pip install MedShapeNetCore](https://github.com/Jianningli/medshapenet-feedback/tree/main/pip_install_MedShapeNetCore)
 
 :star: Featured Repositories
 * [**Sparse convolutional neural network for high-resolution skull shape completion and shape super-resolution**](https://github.com/Jianningli/SparseCNN)

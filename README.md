@@ -20,7 +20,6 @@
 <p align="center">
   <img alt="Followers" src="https://img.shields.io/github/followers/Jianningli?label=Followers&style=social" />
   <img alt="Stars" src="https://img.shields.io/github/stars/Jianningli?style=social" />
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Jianningli/medshapenet-feedback?style=flat" />
 </p>
 
 

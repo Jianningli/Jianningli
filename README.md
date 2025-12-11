@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Hi+there%2C+I'm+Jianning+Li!;Machine+Learning+Researcher+for+Medical+Imaging;AI+for+Healthcare+%7C+Computational+Geometry;Welcome+to+my+GitHub+Profile+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Hi+there%2C+I'm+Jianning+Li!;Machine+Learning+Researcher+for+Medical+Image+Analysis;AI+for+Healthcare+%7C+Computational+Geometry;Welcome+to+my+GitHub+Profile+👋)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://visitor-badge.laobi.icu/badge?page_id=Jianningli.Jianningli">

@@ -29,22 +29,6 @@
   <a href="mailto:jianningli.me@gmail.com"><img src="https://img.shields.io/badge/Email-8B89CC?style=flat&logo=minutemailer&logoColor=white"></a>
 </p>
 
----
-
-## 📦 MedShapeNetCore (PyPI)
-A lightweight Python package for accessing and processing **MedShapeNet** anatomical 3D shapes.
-
-<p align="center">
-  <a href="https://zvrm.ume.de/en/medshapenet-medical-3d-shapes-for-computer-vision/">MedShapeNet Website</a> | 
-  <a href="https://arxiv.org/pdf/2308.16139">Paper</a> | 
-  <a href="https://medshapenet-ikim.streamlit.app/">Data Access</a>
-</p>
-
-```bash
-pip install MedShapeNetCore
-
-
-
 ## ⭐ Featured Projects
 
 ### 🔬 Medical Shape Modeling & Skull Reconstruction
@@ -63,3 +47,19 @@ pip install MedShapeNetCore
 </p>
 
 - **MedShapeNet Feedback:** Tools and scripts for interacting with MedShapeNet.
+- 
+---
+
+## 📦 MedShapeNetCore (PyPI)
+A lightweight Python package for accessing and processing **MedShapeNet** anatomical 3D shapes.
+
+<p align="center">
+  <a href="https://zvrm.ume.de/en/medshapenet-medical-3d-shapes-for-computer-vision/">MedShapeNet Website</a> | 
+  <a href="https://arxiv.org/pdf/2308.16139">Paper</a> | 
+  <a href="https://medshapenet-ikim.streamlit.app/">Data Access</a>
+</p>
+
+```bash
+pip install MedShapeNetCore
+
+

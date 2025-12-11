@@ -16,13 +16,11 @@
 
 <h3 align="center">Medical Image Analysis • Computational Geometry • AI for Healthcare</h3>
 
-📊 GitHub Statistics
+
 <p align="center">
   <!-- Fallback badges (always reliable via shields.io) -->
   <img alt="Followers" src="https://img.shields.io/github/followers/Jianningli?label=Followers&style=social" />
   <img alt="Stars" src="https://img.shields.io/github/stars/Jianningli?style=social" />
-  <img alt="Public Repos" src="https://img.shields.io/github/public-repos/Jianningli?style=flat" />
-  <img alt="Last commit" src="https://img.shields.io/github/last-commit/Jianningli/medshapenet-feedback?style=flat" />
 </p>
 
 

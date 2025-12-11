@@ -11,6 +11,9 @@
 
 <h3 align="center">Medical 3D Shape Analysis • Computational Imaging • AI for Healthcare</h3>
 
+📊 GitHub Statistics
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jianningli&show_icons=true&theme=default&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jianningli&layout=compact&hide_border=true" /> </p>
+
 <p align="center">
   <a href="https://scholar.google.com/citations?hl=en&user=qPPTM_AAAAAJ&view_op=list_works&sortby=pubdate"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white"></a>
   <a href=""><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>

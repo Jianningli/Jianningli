@@ -44,3 +44,22 @@ A lightweight Python package for accessing and processing **MedShapeNet** anatom
 pip install MedShapeNetCore
 
 
+
+## ⭐ Featured Projects
+
+### 🔬 Medical Shape Modeling & Skull Reconstruction
+
+<p align="center">
+  <a href="https://github.com/Jianningli/SparseCNN">SparseCNN</a> | 
+  <a href="https://github.com/Project-MONAI/research-contributions/tree/main/SkullRec">SkullRec</a> | 
+  <a href="https://github.com/Jianningli/autoimplant">autoimplant</a> | 
+  <a href="https://github.com/Jianningli/skullVAE">SkullVAE</a>
+</p>
+
+### 🩺 Dataset & Tools
+
+<p align="center">
+  <a href="https://github.com/Jianningli/medshapenet-feedback">MedShapeNet Feedback</a>
+</p>
+
+- **MedShapeNet Feedback:** Tools and scripts for interacting with MedShapeNet.

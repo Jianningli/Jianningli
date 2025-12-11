@@ -3,12 +3,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=007ACC&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Jianning+Li!;Medical+3D+Shape+Analysis+Researcher;AI+for+Healthcare+%7C+Computational+Imaging;Welcome+to+my+GitHub+Profile+👋" />
 </p>
 
-Reset as of 11.12.2025
 <p align="center">
   <a href="https://visitor-badge.laobi.icu/badge?page_id=Jianningli.Jianningli">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Jianningli.Jianningli" alt="visitor badge"/>
   </a>
 </p>
+
+<p align="center">
+  <sub><i>Visitor counter — reset on 11 December 2025</i></sub>
+</p>
+
 
 <h3 align="center">Medical 3D Shape Analysis • Computational Imaging • AI for Healthcare</h3>
 

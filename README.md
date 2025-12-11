@@ -37,7 +37,7 @@ A lightweight Python package for accessing and processing **MedShapeNet** anatom
 ```bash
 pip install MedShapeNetCore
 
-### 🔗 Useful Links
-- **Official Website:** [MedShapeNet](https://zvrm.ume.de/en/medshapenet-medical-3d-shapes-for-computer-vision/)  
-- **Paper:** [arXiv:2308.16139](https://arxiv.org/pdf/2308.16139)  
-- **Data Access / Demo:** [MedShapeNet Streamlit App](https://medshapenet-ikim.streamlit.app/)
+### 🔗 Useful Links 
+- <a href=""><img src="https://zvrm.ume.de/en/medshapenet-medical-3d-shapes-for-computer-vision/">MedShapeNet</a>
+- <a href=""><img src="https://arxiv.org/pdf/2308.16139">Paper</a>
+- <a href=""><img src="https://medshapenet-ikim.streamlit.app/">Data Access</a>

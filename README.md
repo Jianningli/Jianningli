@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=007ACC&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Jianning+Li!;Machine+Learning+Researcher+for+Medical+Imaging;AI+for+Healthcare+%7C+Computational+Geometry;Welcome+to+my+GitHub+Profile+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=007ACC&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Jianning+Li!; Machine+Learning+Researcher+for+Medical+Imaging;AI+for+Healthcare+%7C+Computational+Geometry;Welcome+to+my+GitHub+Profile+👋" />
 </p>
 
 <p align="center">

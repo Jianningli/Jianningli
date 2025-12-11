@@ -12,8 +12,6 @@
 <h3 align="center">Medical 3D Shape Analysis • Computational Imaging • AI for Healthcare</h3>
 
 📊 GitHub Statistics
-## 📊 GitHub Statistics (fallback)
-
 <p align="center">
   <!-- Fallback badges (always reliable via shields.io) -->
   <img alt="Followers" src="https://img.shields.io/github/followers/Jianningli?label=Followers&style=social" />
@@ -22,12 +20,6 @@
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/Jianningli/medshapenet-feedback?style=flat" />
 </p>
 
-<p align="center" style="margin-top:10px;">
-  <!-- Optional: link to the readme-stats service in case it comes back -->
-  <a href="https://github-readme-stats.vercel.app/api?username=Jianningli&show_icons=true">
-    View full stats (if the github-readme-stats service is available)
-  </a>
-</p>
 
 <p align="center">
   <a href="https://scholar.google.com/citations?hl=en&user=qPPTM_AAAAAJ&view_op=list_works&sortby=pubdate"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white"></a>

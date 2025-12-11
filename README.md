@@ -34,11 +34,13 @@
 ## 📦 MedShapeNetCore (PyPI)
 A lightweight Python package for accessing and processing **MedShapeNet** anatomical 3D shapes.
 
-```bash
-pip install MedShapeNetCore
-
 <p align="center">
 <a href=""><img src="https://zvrm.ume.de/en/medshapenet-medical-3d-shapes-for-computer-vision/">MedShapeNet</a>
 <a href=""><img src="https://arxiv.org/pdf/2308.16139">Paper</a>
 <a href=""><img src="https://medshapenet-ikim.streamlit.app/">Data Access</a>
 </p>
+
+```bash
+pip install MedShapeNetCore
+
+

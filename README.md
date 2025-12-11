@@ -1,7 +1,8 @@
 <!-- Animated Header -->
-<p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Jianning+Li!;Machine+Learning+Researcher+for+Medical+Imaging;AI+for+Healthcare+%7C+Computational+Geometry;Welcome+to+my+GitHub+Profile+👋)](https://git.io/typing-svg)
-</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com
+font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Jianning+Li!;Machine+Learning+Researcher+for+Medical+Imaging;AI+for+Healthcare+%7C+Computational+Geometry;Welcome+to+my+GitHub+Profile+👋)](https://git.io/typing-svg)
+
 
 
 <p align="center">

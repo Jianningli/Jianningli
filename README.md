@@ -14,7 +14,7 @@
 </p>
 
 
-<h3 align="center">Medical 3D Shape Analysis • Computational Imaging • AI for Healthcare</h3>
+<h3 align="center">Medical Image Analysis • Computational Geometry • AI for Healthcare</h3>
 
 📊 GitHub Statistics
 <p align="center">
